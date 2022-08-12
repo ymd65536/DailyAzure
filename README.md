@@ -1,5 +1,60 @@
 # 毎日Azure
 
+## 23日目
+
+Azure Cognitive Servicesはすぐに利用できる汎用的なAIサービスです。
+Cognitive Servicesには複数のAPIが存在し、主に5つのカテゴリに分類されます。
+APIを利用する場合はCognitive Services SDKから呼び出して利用します。
+
+## 22日目
+
+Azure DatabricksはApache Spark ベースのデータ分析プラットフォームです。
+Azure Data Lake Storage にあるデータを元に分析を実行します。PaaS環境で手軽にデータ分析を実行できる上に必要に応じてスケーリングを実行します。
+
+## 21日目
+
+Azure Table Storage はNoSQL型のデータストアです。
+Azure Table Storage はCosmos DBより構造が単純な為、比較的容易に利用できます。
+また、NoSQLのサービスであるゆえにスキーマの定義を必要としません。
+
+## 20日目
+
+Azure Bot Service は人間のようにコンピューターが振る舞うことで質問応答などをチャットボットに任せることができるサービスです。
+既に構築済みのAIを利用することで高度な受け答えやQAサイトの構成をノーコードで実現できます。
+
+## 19日目
+
+Azure DDoS Protection は DDoS攻撃からシステムを保護する監視サービスです。
+利用プランにはBasicとStandard があり、DDoS Protection Standard には、DDoS 迅応サポートが含まれています。
+
+## 18日目
+
+Azure Virtual Desktop (旧称 Windows Virtual Desktop)、AVDはAzure上で仮想デスクトップ(VDI)環境を利用できるサービスです。
+通常、VDI環境を構築するためには専用のインフラを構築する必要があります。
+
+AVDはインフラ環境を管理してくれるという大きな特徴があります。
+
+## 17日目
+
+Azure Alertはあらかじめ設定したしきい値を超えた場合に指定したアクションを実行できるサービスです。
+Azure Alertではスコープ、条件、アクショングループ、詳細の4つの内容から警告を発生させるルールを作ります。
+
+## 16日目
+
+Azure Container Instances(ACI) はDocker コンテナ技術をAzure上に実装したサービスです。
+コンテナイメージはAzure Container Registry(ACR)に保存します。
+ACIを利用するとAzure上で仮想マシンを管理せずにコンテナーを簡単に実行できます。
+
+## 15日目
+
+Azure Static Web Appsはサーバレスな開発環境高速に構築してすぐにWebアプリをデプロイできるフルスタックなサービスです。
+様々なフロントエンドフレームワークに対応しています。
+
+## 14日目
+
+Azure WAF(Web Application Firewall)はWebアプリケーションの脆弱性への攻撃に対するセキュリティソリューションです。
+Azure WAFは、SQLインジェクション攻撃やXSS攻撃などの攻撃からアプリケーションを保護します。
+
 ## 13日目
 
 Azure Bastion(バスティオン)とはブラウザとAzurePortalを経由して仮想マシンに接続できるようにするサービスです。
