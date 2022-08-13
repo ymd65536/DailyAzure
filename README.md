@@ -1,5 +1,10 @@
 # 毎日Azure
 
+## 24日目
+
+Azure IoT Hub(IoT Hub)は物理世界にあるデバイスと各種Azureサービスとの間でデータの中継(Broker)を担うサービスです。
+IoT Hubは数百万のデバイスから送信される数十億のデータを処理できるように設計されています。
+
 ## 23日目
 
 Azure Cognitive Servicesはすぐに利用できる汎用的なAIサービスです。
