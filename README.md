@@ -1,5 +1,12 @@
 # 毎日Azure
 
+## 25日目
+
+〜Azure IoT Hub(IoT Hub)とデバイス間の通信プロトコル〜
+
+IoT HubはIoTでMQTTやAMQP、HTTPSといった複数の通信プロトコルに対応しています。
+また、通信方向としてDevice To CloudとCloud To Device にそれぞれ対応しています。
+
 ## 24日目
 
 Azure IoT Hub(IoT Hub)は物理世界にあるデバイスと各種Azureサービスとの間でデータの中継(Broker)を担うサービスです。
