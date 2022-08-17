@@ -1,5 +1,11 @@
 # 毎日Azure
 
+## 28日目
+
+Azure Time Series Insights(TSI)はIoTのデータ分析と視覚化に特化したサービスです。
+データの蓄積やクエリの実行、データの視覚化を実行できます。
+セットアップ方法はTSIのリソースを作成後、既存のIoT HubかEvent Hubs をイベントソースとするように設定するだけです。
+
 ## 27日目
 
 Azure Service Health は現在利用中のサービスの状況が確認できます。
