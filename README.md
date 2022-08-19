@@ -1,5 +1,11 @@
 # 毎日Azure
 
+## 30日目
+
+〜Azure Cognitive ServicesのAIモデルをカスタマイズする〜
+Custom Visionを用いることで特定の用途に特化したモデルを作成することができます。
+作成には用途に応じた画像が必要です。
+
 ## 29日目
 
 Azure Stream Analytics はリアルタイムな分析サービスです。
