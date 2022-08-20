@@ -1,5 +1,10 @@
 # 毎日Azure
 
+## 31日目
+
+Visual Studio App Centerは各(Android、iOS、macOS、Windows)でアプリケーションのビルドとテストが可能なサービスです。
+App Center Diagnostics を使用してリアルタイムの診断データを収集して分析と診断ができます。
+
 ## 30日目
 
 〜Azure Cognitive ServicesのAIモデルをカスタマイズする〜
