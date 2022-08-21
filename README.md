@@ -1,5 +1,11 @@
 # 毎日Azure
 
+## 32日目
+
+〜Azureにおけるアクセス制御〜
+Azureにはアクセス制御を行う仕組みとしてRole-Based Access Control(RBAC)という機能があります。
+RBACにより管理グループ、サブスクリプション、リソースグループ、リソースといった各スコープに対して、アクセス制御を実行できます。
+
 ## 31日目
 
 Visual Studio App Centerは各(Android、iOS、macOS、Windows)でアプリケーションのビルドとテストが可能なサービスです。
