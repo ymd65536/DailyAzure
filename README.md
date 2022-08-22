@@ -1,5 +1,15 @@
 # 毎日Azure
 
+## 33日目
+
+〜Azureにおけるコスト最適化〜
+スポットVMの活用やディスクストレージクラスの調整などの対策があります。
+さらにAzureにはAzure Cost Keeperというコスト管理のサービスがあります。
+Azure Cost Keeperを使うことでより詳細な請求内訳やコスト削減のアドバイスを確認できます。
+
+参考動画
+https://www.youtube.com/watch?v=8jn5F5kPMGg
+
 ## 32日目
 
 〜Azureにおけるアクセス制御〜
