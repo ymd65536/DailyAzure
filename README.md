@@ -4,7 +4,7 @@
 
 〜Azureにおけるコスト最適化〜
 スポットVMの活用やディスクストレージクラスの調整などの対策があります。
-さらにAzureにはAzure Cost Keeperというコスト管理のサービスがあります。
+さらにAzureにはAzure Cost Keeperというコスト管理のOSSがあります。
 Azure Cost Keeperを使うことでより詳細な請求内訳やコスト削減のアドバイスを確認できます。
 
 参考動画
