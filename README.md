@@ -1,5 +1,15 @@
 # 毎日Azure
 
+## 34日目
+
+Azure Container Apps は複雑なインフラを管理することなくコンテナ化されたアプリケーションをデプロイできるサービスです。
+Daprがサポートされている為、Daprを使ったマイクロサービスを構築できます。
+
+[Azure Container Apps](https://azure.microsoft.com/ja-jp/services/container-apps/)
+
+解説
+[Azure Container Apps | MVP Build パーソナルスポンサー #3 | Azure 入門51](https://www.youtube.com/watch?v=hu8qWrYXeFw)
+
 ## 33日目
 
 〜Azureにおけるコスト最適化〜
