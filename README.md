@@ -1,5 +1,19 @@
 # 毎日Azure
 
+## 35日目
+
+Azure Kubernetes Service (AKS)はAzure上で提供されているマネージドなKubernetes向けサービスです。
+
+AKSのKubernetesクラスターでは
+
+- コンテナオーケストレーションを司るコントロールプレーン
+- アプリケーションの実行を司るノード
+
+の二つのコンポーネントに分割されています。
+
+参考動画
+[AKS on Azure Stack HCIとは何ぞや？](https://www.youtube.com/watch?v=hlCSAJu8pvE)
+
 ## 34日目
 
 Azure Container Apps は複雑なインフラを管理することなくコンテナ化されたアプリケーションをデプロイできるサービスです。
