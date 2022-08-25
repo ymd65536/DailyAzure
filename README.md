@@ -1,5 +1,13 @@
 # 毎日Azure
 
+## 36日目
+
+Azure Active Directory(Azure AD)は、クラウドベースのID管理とアクセス管理のサービスを提供します。
+Azureを利用する際はサインインとID保護のためにAzure AD必要です。
+また、Azure ADの有償の機能を利用してよりセキュリティを強化できます。
+
+[Azure | クラウドコト始め l Azure AD って何? l 初心者向け06 [#くらでべ]](https://www.youtube.com/watch?v=FTLDPQEiOIM)
+
 ## 35日目
 
 Azure Kubernetes Service (AKS)はAzure上で提供されているマネージドなKubernetes向けサービスです。
