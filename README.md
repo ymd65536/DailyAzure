@@ -1,5 +1,14 @@
 # 毎日Azure
 
+## 37日目
+
+Azure Data Lake Storage はAzure上で利用できるデータレイクサービス(PaaS)です。
+Azure Data Lakeには次の3つの機能があります。
+
+- データを格納する領域のAzure Data Lake Store
+- データを分析するためのAzure Data Lake Analytics
+- データを管理するためのAzure HDInsight
+
 ## 36日目
 
 Azure Active Directory(Azure AD)は、クラウドベースのID管理とアクセス管理のサービスを提供します。
