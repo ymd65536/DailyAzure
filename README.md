@@ -1,5 +1,10 @@
 # 毎日Azure
 
+## 38日目
+
+Azure Remote Rendering は高品質の対話型 3D コンテンツをリアルタイムでデバイスにストリーミングするサービスです。
+ストリーミングされた3Dコンテンツは HoloLens 2 などの Mixed reality デバイスで利用できます。
+
 ## 37日目
 
 Azure Data Lake Storage はAzure上で利用できるデータレイクサービス(PaaS)です。
