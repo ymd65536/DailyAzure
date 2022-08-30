@@ -1,5 +1,10 @@
 # 毎日Azure
 
+## 40日目
+
+Azure DNSはAzure上で機能するDNSサービスです。
+内部及び外部ネットワークでネームサーバーとして機能します。
+
 ## 39日目
 
 Azure Cache for Redisはデータへの超高速アクセスを可能とする分散型インメモリベースソリューションです。
@@ -59,7 +64,7 @@ Daprがサポートされている為、Daprを使ったマイクロサービス
 Azure Cost Keeperを使うことでより詳細な請求内訳やコスト削減のアドバイスを確認できます。
 
 参考動画
-https://www.youtube.com/watch?v=8jn5F5kPMGg
+<https://www.youtube.com/watch?v=8jn5F5kPMGg>
 
 ## 32日目
 
@@ -174,7 +179,7 @@ Azure WAFは、SQLインジェクション攻撃やXSS攻撃などの攻撃か�
 Azure Bastion(バスティオン)とはブラウザとAzurePortalを経由して仮想マシンに接続できるようにするサービスです。
 Bastionを経由して仮想マシンに対するRDP接続やSSH接続が利用できます。
 
-https://docs.microsoft.com/ja-jp/azure/bastion/bastion-overview
+<https://docs.microsoft.com/ja-jp/azure/bastion/bastion-overview>
 
 ## 12日目
 
@@ -218,9 +223,9 @@ Azure Storageには複数の冗長オプションがあります。
 冗長オプションはストレージサービスによって利用できるオプションが異なります。
 例えば、Azure Disk StorageではLRSとZRSに対応しています。
 
-https://azure.microsoft.com/ja-jp/updates/zone-redundant-storage-zrs-for-azure-disk-storage-now-generally-available/
-https://azure.microsoft.com/en-us/blog/improve-availability-with-zoneredundant-storage-for-azure-disk-storage/
-https://docs.microsoft.com/ja-jp/azure/virtual-machines/disks-redundancy#zone-redundant-storage-for-managed-disks
+<https://azure.microsoft.com/ja-jp/updates/zone-redundant-storage-zrs-for-azure-disk-storage-now-generally-available/>
+<https://azure.microsoft.com/en-us/blog/improve-availability-with-zoneredundant-storage-for-azure-disk-storage/>
+<https://docs.microsoft.com/ja-jp/azure/virtual-machines/disks-redundancy#zone-redundant-storage-for-managed-disks>
 
 ## 5日目
 
